@@ -1,0 +1,24 @@
+{
+  "highScore": 31320031,
+  "null": {
+    "bio": "Hi I am Jacob",
+    "image": "http://res.cloudinary.com/thunkablecloudinary123/image/upload/v1707407652/fhvuij6mapi1q0v11cpg.jpg",
+    "name": "Jacob",
+    "school": "University of Rhode Island",
+    "status": "I am happy"
+  },
+  "ov2rQ80XU0UZIack0ZXIeRUWj6L2": {
+    "bio": "I am not Jacob",
+    "image": "http://res.cloudinary.com/thunkablecloudinary123/image/upload/v1707407828/apjq5tzhwdsbax8xeguk.jpg",
+    "name": "Not Jacob",
+    "school": "Maybe URI",
+    "status": "I am not Happy"
+  },
+  "uLihDQNskfSpYUKybLPCeaQo2xf2": {
+    "bio": "Hi i am jacob",
+    "image": "http://res.cloudinary.com/thunkablecloudinary123/image/upload/v1707407742/ejqewpssb2x4leixivcu.jpg",
+    "name": "Jacob",
+    "school": "University of Rhode Island",
+    "status": "I am happy"
+  }
+}
